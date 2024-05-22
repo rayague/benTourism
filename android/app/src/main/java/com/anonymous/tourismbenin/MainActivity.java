@@ -1,4 +1,4 @@
-package com.styleapp;
+package com.anonymous.tourismbenin;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;

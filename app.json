@@ -1,4 +1,13 @@
 {
-  "name": "styleapp",
-  "displayName": "styleapp"
+  "name": "tourismbenin",
+  "displayName": "tourismbenin",
+  "android": {
+    "package": "com.anonymous.tourismbenin"
+  },
+  "ios": {
+    "bundleIdentifier": "com.anonymous.tourismbenin"
+  },
+  "react-native-vector-icons": {
+    "enable": true
+  }
 }
